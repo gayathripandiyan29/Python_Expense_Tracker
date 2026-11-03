@@ -48,4 +48,4 @@ python main.py
 
 ## Author
 
-Gayathri Pandian
+Gayathri Pandiyan
